@@ -1,0 +1,283 @@
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\bin\Debug\MaterialDesignDemo.exe.config
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\bin\Debug\MaterialDesignDemo.exe
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\bin\Debug\MaterialDesignDemo.pdb
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Cards.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\ColorZones.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Domain\SampleMessageDialog.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Dialogs.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Domain\Sample4Dialog.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Domain\SampleProgressDialog.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Grids.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Home.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\MenusAndToolBars.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Palette.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Progress.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Shadows.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Sliders.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide2_Intro.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide3_Intro.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide5_TransitioningContent.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Typography.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\App.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Buttons.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Cards.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Chips.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\ColorZones.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Domain\SampleMessageDialog.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Expander.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Dialogs.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Domain\Sample4Dialog.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Domain\SampleDialog.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Domain\SampleProgressDialog.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Grids.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\GroupBoxes.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Home.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\IconPack.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Lists.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\MenusAndToolBars.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Palette.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\PaletteSelector.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Pickers.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Progress.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\ProvingGround.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Shadows.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Sliders.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TextFields.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Transitions.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide1_Intro.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide2_Intro.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide3_Intro.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide4_CombineTransitions.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide5_TransitioningContent.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide6_MVVM.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide7_Master.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide8_Details.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\TransitionsDemoHome.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Trees.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Typography.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\App.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\MaterialDesignDemo_MarkupCompile.cache
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\MaterialDesignDemo_MarkupCompile.lref
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Buttons.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Chips.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Expander.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Domain\SampleDialog.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\GroupBoxes.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\IconPack.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Lists.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\MainWindow.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\PaletteSelector.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Pickers.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\ProvingGround.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TextFields.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Transitions.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide1_Intro.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide4_CombineTransitions.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide6_MVVM.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide7_Master.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide8_Details.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\TransitionsDemo\TransitionsDemoHome.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\Trees.baml
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.g.resources
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.Properties.Resources.resources
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.csproj.GenerateResource.Cache
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.exe
+C:\Users\David\Documents\GitHub\MaterialDesignInXamlToolkit\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.pdb
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\bin\Debug\MaterialDesignDemo.exe.config
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.exe
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.pdb
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Cards.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\ColorZones.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Domain\SampleMessageDialog.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Dialogs.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Domain\Sample4Dialog.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Domain\SampleProgressDialog.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Grids.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Home.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\MenusAndToolBars.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Palette.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Progress.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Shadows.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Sliders.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide2_Intro.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide3_Intro.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide5_TransitioningContent.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Typography.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\App.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Buttons.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Cards.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Chips.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\ColorZones.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Domain\SampleMessageDialog.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Expander.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Dialogs.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Domain\Sample4Dialog.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Domain\SampleDialog.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Domain\SampleProgressDialog.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Grids.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\GroupBoxes.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Home.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\IconPack.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Lists.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\MenusAndToolBars.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Palette.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\PaletteSelector.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Pickers.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Progress.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\ProvingGround.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Shadows.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Sliders.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TextFields.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Transitions.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide1_Intro.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide2_Intro.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide3_Intro.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide4_CombineTransitions.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide5_TransitioningContent.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide6_MVVM.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide7_Master.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide8_Details.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\TransitionsDemoHome.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Trees.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Typography.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\App.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\MaterialDesignDemo_MarkupCompile.cache
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\MaterialDesignDemo_MarkupCompile.lref
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\bin\Debug\MaterialDesignDemo.exe
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\bin\Debug\MaterialDesignDemo.pdb
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Buttons.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Chips.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Expander.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Domain\SampleDialog.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\GroupBoxes.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\IconPack.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Lists.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\MainWindow.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\PaletteSelector.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Pickers.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\ProvingGround.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TextFields.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Transitions.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide1_Intro.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide4_CombineTransitions.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide6_MVVM.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide7_Master.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide8_Details.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\TransitionsDemo\TransitionsDemoHome.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\Trees.baml
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.g.resources
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.Properties.Resources.resources
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.csproj.GenerateResource.Cache
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\LoginWindow.g.cs
+C:\Users\David\Documents\GitHub\lock test 2\MainDemo.Wpf\obj\Debug\LoginWindow.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\bin\Debug\MaterialDesignDemo.exe.config
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.exe
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.pdb
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\bin\Debug\MaterialDesignDemo.exe
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\bin\Debug\MaterialDesignDemo.pdb
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Cards.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\ColorZones.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Domain\SampleMessageDialog.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Dialogs.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Domain\Sample4Dialog.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Domain\SampleProgressDialog.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Grids.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Home.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\MenusAndToolBars.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Palette.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Progress.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Shadows.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Sliders.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide2_Intro.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide3_Intro.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide5_TransitioningContent.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Typography.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\App.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Buttons.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Cards.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Chips.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\ColorZones.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Domain\SampleMessageDialog.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Expander.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Dialogs.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Domain\Sample4Dialog.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Domain\SampleDialog.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Domain\SampleProgressDialog.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Grids.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\GroupBoxes.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Home.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\IconPack.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Lists.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\LoginWindow.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\MenusAndToolBars.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Palette.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\PaletteSelector.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Pickers.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Progress.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\ProvingGround.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Shadows.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Sliders.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TextFields.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Transitions.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide1_Intro.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide2_Intro.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide3_Intro.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide4_CombineTransitions.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide5_TransitioningContent.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide6_MVVM.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide7_Master.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide8_Details.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\TransitionsDemoHome.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Trees.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Typography.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\App.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\MaterialDesignDemo_MarkupCompile.cache
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\MaterialDesignDemo_MarkupCompile.lref
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Buttons.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Chips.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Expander.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Domain\SampleDialog.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\GroupBoxes.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\IconPack.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Lists.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\LoginWindow.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\MainWindow.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\PaletteSelector.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Pickers.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\ProvingGround.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TextFields.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Transitions.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide1_Intro.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide4_CombineTransitions.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide6_MVVM.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide7_Master.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\Slide8_Details.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\TransitionsDemo\TransitionsDemoHome.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\Trees.baml
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.g.resources
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.Properties.Resources.resources
+C:\Users\David\Desktop\materialxamldesignUIfreeze\MainDemo.Wpf\obj\Debug\MaterialDesignDemo.csproj.GenerateResource.Cache

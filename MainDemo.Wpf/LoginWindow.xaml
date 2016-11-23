@@ -1,0 +1,28 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MaterialDesignDemo"
+        Closed="Window_Closed"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" xmlns:Domain="clr-namespace:MaterialDesignDemo.Domain" x:Class="MaterialDesignDemo.LoginWindow"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="338.047" Width="256.051">
+    <Grid>
+
+        <TextBlock Style="{StaticResource MaterialDesignTitleTextBlock}" Margin="66,66,58,201" Text="Login Form"/>
+        <materialDesign:ColorZone Padding="16" materialDesign:ShadowAssist.ShadowDepth="Depth2"
+            Mode="PrimaryMid">
+            <DockPanel>
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="12"><Run Text="WPF Demo UI Freeze"/></TextBlock>
+            </DockPanel>
+        </materialDesign:ColorZone>
+        <Button Style="{StaticResource MaterialDesignRaisedButton}" Margin="69,247,71,22"
+            ToolTip="Resource name: MaterialDesignRaisedButton" Content="_LOGIN" Click="Button_Click" Height="Auto"/>
+        <TextBox 
+            x:Name="Username"
+            materialDesign:HintAssist.Hint="Username" Text="sample" Margin="48,99,50,158"/>
+        <PasswordBox x:Name="txtPassword" Password="sample" materialDesign:HintAssist.Hint="Password" Margin="50,177,50,84"/>
+
+    </Grid>
+</Window>
